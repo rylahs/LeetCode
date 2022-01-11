@@ -3,7 +3,7 @@
 // R = length - 1(index)
 // pivot = L + R / 2
 // LeetCode 704. Binary Search
-// 
+// https://leetcode.com/problems/binary-search/
 #include <iostream>
 #include <vector>
 
