@@ -1,4 +1,4 @@
-// Binary Search - O(logN)
+// 704. Binary Search - O(logN)
 // L = 0(index)
 // R = length - 1(index)
 // pivot = L + R / 2
