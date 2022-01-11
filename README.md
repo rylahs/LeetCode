@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode Problem Solved
+ LeetCode의 PS 연습 공간
